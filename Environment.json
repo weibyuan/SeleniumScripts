@@ -1,0 +1,45 @@
+{
+	"beta": {
+		"URL": "https://pimco-beta.crm.dynamics.com/",
+		
+		"app": "Hybrid",
+		
+		"EmailConfig": {
+			"recipientEmail": "jingyang.wang@pimco.com",
+			"senderEmail": "svc_qc@pimco.com",
+			"senderEmailPwd": "",
+			"emailSMTPServerHost": "mail.pimco.com",
+			"emailSMTPServerPort": 25,
+			"emailPOPServerHost": "outlook.office365.com",
+			"emailPOPServerPort": 995
+		}
+	},
+	
+	
+	
+	"prod": {
+	
+		"URL": "https://pimco.crm.dynamics.com",
+	
+		"app": "Hybrid",
+		
+		"DBConfig": {
+			"vendor": "ORACLE",
+			"hostName": "oraprdpim-db.pimco.imswest.sscims.com",
+			"portNumber": 1521,
+			"dbName": "pr01pimi_cfport_con",
+			"userName": "",
+			"password": ""
+		},
+		"EmailConfig": {
+			"recipientEmail": "sourabh.goel@pimco.com",
+			"senderEmail": "svc_qc@pimco.com",
+			"senderEmailPwd": "",
+			"emailSMTPServerHost": "smtp.office365.com",
+			"emailSMTPServerPort": 587,
+			"emailPOPServerHost": "outlook.office365.com",
+			"emailPOPServerPort": 995
+		}
+	}
+	
+}	

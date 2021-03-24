@@ -1,0 +1,221 @@
+[ {
+  "uid" : "1b99ed016cf7ef3f",
+  "name" : "CreateNewRelationshipAllInPut",
+  "time" : {
+    "start" : 1579241191217,
+    "stop" : 1579241330637,
+    "duration" : 139420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d23ba8c6b8ad738f",
+  "name" : "CreateNewPhonecall",
+  "time" : {
+    "start" : 1586414662289,
+    "stop" : 1586414765726,
+    "duration" : 103437
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6dc34f9a5829e51d",
+  "name" : "CreateNewPhonecallAllInput",
+  "time" : {
+    "start" : 1581569699131,
+    "stop" : 1581569796522,
+    "duration" : 97391
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0ae493a5afa006d",
+  "name" : "",
+  "time" : {
+    "start" : 1582532012531,
+    "stop" : 1582532125236,
+    "duration" : 112705
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9617c50cb1470a8",
+  "name" : "CreateNewPhonecallAllInput",
+  "time" : {
+    "start" : 1582533772764,
+    "stop" : 1582533899903,
+    "duration" : 127139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0f61cb0e3bb5f84",
+  "name" : "CreateNewPhonecallAllInput",
+  "time" : {
+    "start" : 1582004670109,
+    "stop" : 1582004803404,
+    "duration" : 133295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81238f6317c34362",
+  "name" : "CRM_Client_Activities_CreateMeetingUnderContact",
+  "time" : {
+    "start" : 1582533250567,
+    "stop" : 1582533394907,
+    "duration" : 144340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "415b517ab25b8db9",
+  "name" : "CRM_Client_Contacts_CreateContactsInputAllFields",
+  "time" : {
+    "start" : 1582533085802,
+    "stop" : 1582533230683,
+    "duration" : 144881
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b25389c989a6623",
+  "name" : "CreateNewRelationship",
+  "time" : {
+    "start" : 1583138416132,
+    "stop" : 1583138434613,
+    "duration" : 18481
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dc10b32c0b426a9",
+  "name" : "CRM_Client_Activities_NewTaskInputAllFields",
+  "time" : {
+    "start" : 1582693274523,
+    "stop" : 1582693408911,
+    "duration" : 134388
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1920ff72fc9281f",
+  "name" : "CreateNewPhonecallAllInput",
+  "time" : {
+    "start" : 1581672425936,
+    "stop" : 1581672558004,
+    "duration" : 132068
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81f139804c6531db",
+  "name" : "CRM_Client_Contacts_CreateContacts",
+  "time" : {
+    "start" : 1582532940561,
+    "stop" : 1582533066149,
+    "duration" : 125588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9a205690ec23786",
+  "name" : "CreateNewRelationshipAllInPut",
+  "time" : {
+    "start" : 1582537241691,
+    "stop" : 1582537415937,
+    "duration" : 174246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e4ec190ecfe01dd",
+  "name" : "CreateNewRelationship",
+  "time" : {
+    "start" : 1577172142503,
+    "stop" : 1577172198704,
+    "duration" : 56201
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0fa8506e4cab194",
+  "name" : "CreateNewPhonecall",
+  "time" : {
+    "start" : 1583210477954,
+    "stop" : 1583210599438,
+    "duration" : 121484
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "211c0b26a1c174d3",
+  "name" : "CreateNewPhonecall",
+  "time" : {
+    "start" : 1583810621913,
+    "stop" : 1583810712508,
+    "duration" : 90595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c9e072b2355084b",
+  "name" : "CreateNewRelationshipAllInPut",
+  "time" : {
+    "start" : 1579095894838,
+    "stop" : 1579095956456,
+    "duration" : 61618
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d442d47626f963f6",
+  "name" : "CreateNewPhonecall",
+  "time" : {
+    "start" : 1583741106055,
+    "stop" : 1583741247058,
+    "duration" : 141003
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2c101dfdf38a2dc",
+  "name" : "CreateNewRelationshipAllInPut",
+  "time" : {
+    "start" : 1579075881142,
+    "stop" : 1579076006262,
+    "duration" : 125120
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "66faaca983150d4f",
+  "name" : "VerifyLablesOnRelationshipPage",
+  "time" : {
+    "start" : 1582534000702,
+    "stop" : 1582534045195,
+    "duration" : 44493
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d101cf51eb691d3c",
+  "name" : "CreateNewRelationshipAllInPut",
+  "time" : {
+    "start" : 1579222440905,
+    "stop" : 1579222538235,
+    "duration" : 97330
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a729350ff1f8f1b",
+  "name" : "Create consolidated report",
+  "time" : {
+    "start" : 1586414851843,
+    "stop" : 1586414855354,
+    "duration" : 3511
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,115 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "MDM Search page is not displaying",
+      "children" : [ {
+        "name" : "CreateNewRelationship",
+        "uid" : "6e4ec190ecfe01dd",
+        "parentUid" : "039e6f8d4eecb23a936d3de4d1f038ab",
+        "status" : "failed",
+        "time" : {
+          "start" : 1577172142503,
+          "stop" : 1577172198704,
+          "duration" : 56201
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "National Firm", "3M Company", "1", "NewRelationship", "svc_qc@pimco.com", "1" ]
+      } ],
+      "uid" : "039e6f8d4eecb23a936d3de4d1f038ab"
+    }, {
+      "name" : "\"\"\"TATE ASSET MANAGEMENT\"\" AND \"\"DCO WEALTH MANAGEMENT\"\"\", San Diegois not displaying under the primary contact list",
+      "children" : [ {
+        "name" : "CreateNewRelationshipAllInPut",
+        "uid" : "2c101dfdf38a2dc",
+        "parentUid" : "0a8c89f62c058a05ac88ccbf93e7058d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1579075881142,
+          "stop" : 1579076006262,
+          "duration" : 125120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Industrials", "National Firm", "\"\"\"TATE ASSET MANAGEMENT\"\" AND \"\"DCO WEALTH MANAGEMENT\"\"\", San Diego", "Jean Adams", "3M Company", "Client", "test", "1", "NewRelationship", "svc_qc@pimco.com", "www.QATest.com", "1" ]
+      } ],
+      "uid" : "0a8c89f62c058a05ac88ccbf93e7058d"
+    }, {
+      "name" : "Expected task title : NewTask_20200303124251 Actual task title : New Task",
+      "children" : [ {
+        "name" : "CreateNewPhonecall",
+        "uid" : "b0fa8506e4cab194",
+        "parentUid" : "e974a12642623f34fb88ab6a25188027",
+        "status" : "failed",
+        "time" : {
+          "start" : 1583210477954,
+          "stop" : 1583210599438,
+          "duration" : 121484
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Positive", "10/24/2020", "3M Public Equity Alias", "3M Company", "NewTask", "test", "svc_qc@pimco.com" ]
+      } ],
+      "uid" : "e974a12642623f34fb88ab6a25188027"
+    }, {
+      "name" : "The new phonecall page is not displaying",
+      "children" : [ {
+        "name" : "CreateNewPhonecall",
+        "uid" : "d23ba8c6b8ad738f",
+        "parentUid" : "c4ff8246a37f34dccd65bfb2b1d9ad49",
+        "status" : "failed",
+        "time" : {
+          "start" : 1586414662289,
+          "stop" : 1586414765726,
+          "duration" : 103437
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Operational Support", "3M Public Equity Alias", "3M Company", "NewPhonecall", "svc_qc@pimco.com", "Voicemail" ]
+      } ],
+      "uid" : "c4ff8246a37f34dccd65bfb2b1d9ad49"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=79.0.3945.130)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'VMW7NB-P-QA008', ip: '144.77.90.26', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_231'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\\Windows\\temp\\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:63432}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 616876bbf1999db2b0e0b29d139032b9",
+      "children" : [ {
+        "name" : "CreateNewRelationship",
+        "uid" : "1b25389c989a6623",
+        "parentUid" : "ddc658bd28e8c3cb116d75594341459f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1583138416132,
+          "stop" : 1583138434613,
+          "duration" : 18481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "National Firm", "3M Company", "1", "NewRelationship", "svc_qc@pimco.com", "1" ]
+      } ],
+      "uid" : "ddc658bd28e8c3cb116d75594341459f"
+    }, {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "CreateNewPhonecall",
+        "uid" : "d442d47626f963f6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1583741106055,
+          "stop" : 1583741247058,
+          "duration" : 141003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Positive", "10/24/2020", "12:00 AM", "3M Public Equity Alias", "3M Company", "NewTask", "test", "svc_qc@pimco.com" ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

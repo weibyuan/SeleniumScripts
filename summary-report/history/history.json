@@ -1,0 +1,426 @@
+{
+  "88f929c48340c18176d22ad89efe7a92" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9a205690ec23786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582537241691,
+        "stop" : 1582537415937,
+        "duration" : 174246
+      }
+    } ]
+  },
+  "58d26a6782885bddb46c36d61c197283" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b99ed016cf7ef3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579241191217,
+        "stop" : 1579241330637,
+        "duration" : 139420
+      }
+    } ]
+  },
+  "6a2ae61f3d0a7a8e7d694e64cb122cca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0ae493a5afa006d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582532012531,
+        "stop" : 1582532125236,
+        "duration" : 112705
+      }
+    } ]
+  },
+  "9f1cfb926f88d562196bcfb69cdffe53" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a729350ff1f8f1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586414851843,
+        "stop" : 1586414855354,
+        "duration" : 3511
+      }
+    } ]
+  },
+  "a54f02ed262350034b2522b646481bc2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "415b517ab25b8db9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582533085802,
+        "stop" : 1582533230683,
+        "duration" : 144881
+      }
+    } ]
+  },
+  "ae5eb7ec2bdb94ed9f9db146c000e0bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81f139804c6531db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582532940561,
+        "stop" : 1582533066149,
+        "duration" : 125588
+      }
+    } ]
+  },
+  "51198f77d57ce50534b4de0a6fdec825" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81238f6317c34362",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582533250567,
+        "stop" : 1582533394907,
+        "duration" : 144340
+      }
+    } ]
+  },
+  "6099824d6f2a79ca287f06b44fe6d521" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e4ec190ecfe01dd",
+      "status" : "failed",
+      "statusDetails" : "MDM Search page is not displaying",
+      "time" : {
+        "start" : 1577172142503,
+        "stop" : 1577172198704,
+        "duration" : 56201
+      }
+    } ]
+  },
+  "623d8c945f6396d29b8f52f40242c378" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a0f61cb0e3bb5f84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582004670109,
+        "stop" : 1582004803404,
+        "duration" : 133295
+      }
+    } ]
+  },
+  "66a5a693896d9271fcd74046fa0e17fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b25389c989a6623",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=79.0.3945.130)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'VMW7NB-P-QA008', ip: '144.77.90.26', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_231'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\\Windows\\temp\\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:63432}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 616876bbf1999db2b0e0b29d139032b9",
+      "time" : {
+        "start" : 1583138416132,
+        "stop" : 1583138434613,
+        "duration" : 18481
+      }
+    } ]
+  },
+  "57057eda49ae414d6cdedb7f040e2bd0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c9e072b2355084b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579095894838,
+        "stop" : 1579095956456,
+        "duration" : 61618
+      }
+    } ]
+  },
+  "af3bb922e3f42107892c5b7f85e54f88" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c101dfdf38a2dc",
+      "status" : "failed",
+      "statusDetails" : "\"\"\"TATE ASSET MANAGEMENT\"\" AND \"\"DCO WEALTH MANAGEMENT\"\"\", San Diegois not displaying under the primary contact list",
+      "time" : {
+        "start" : 1579075881142,
+        "stop" : 1579076006262,
+        "duration" : 125120
+      }
+    } ]
+  },
+  "7757112e9e54c4832b81c6724c0edd3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d23ba8c6b8ad738f",
+      "status" : "failed",
+      "statusDetails" : "The new phonecall page is not displaying",
+      "time" : {
+        "start" : 1586414662289,
+        "stop" : 1586414765726,
+        "duration" : 103437
+      }
+    } ]
+  },
+  "9900cfccc59f629a293cc61caa2f30bf" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0fa8506e4cab194",
+      "status" : "failed",
+      "statusDetails" : "Expected task title : NewTask_20200303124251 Actual task title : New Task",
+      "time" : {
+        "start" : 1583210477954,
+        "stop" : 1583210599438,
+        "duration" : 121484
+      }
+    } ]
+  },
+  "9562df5b8f78d709d2bbcb6901e021b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6dc34f9a5829e51d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581569699131,
+        "stop" : 1581569796522,
+        "duration" : 97391
+      }
+    } ]
+  },
+  "5b73791aa10b2fce6b31df34a8698544" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d442d47626f963f6",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1583741106055,
+        "stop" : 1583741247058,
+        "duration" : 141003
+      }
+    } ]
+  },
+  "4ad26f395cc9c6d463b1d915313d0f75" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc10b32c0b426a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582693274523,
+        "stop" : 1582693408911,
+        "duration" : 134388
+      }
+    } ]
+  },
+  "ed240314bd7a91e93264003279c6735b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66faaca983150d4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582534000702,
+        "stop" : 1582534045195,
+        "duration" : 44493
+      }
+    } ]
+  },
+  "2a6a84a303b9594ef0b273e84722d39b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9617c50cb1470a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582533772764,
+        "stop" : 1582533899903,
+        "duration" : 127139
+      }
+    } ]
+  },
+  "3dabd8c8eebb2e6e6067c38062519c2b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "211c0b26a1c174d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583810621913,
+        "stop" : 1583810712508,
+        "duration" : 90595
+      }
+    } ]
+  },
+  "f6bfbd552f345a35f9739724060bfae6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1920ff72fc9281f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581672425936,
+        "stop" : 1581672558004,
+        "duration" : 132068
+      }
+    } ]
+  },
+  "454f18ece771c8936e31125d889e1c3b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d101cf51eb691d3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579222440905,
+        "stop" : 1579222538235,
+        "duration" : 97330
+      }
+    } ]
+  }
+}

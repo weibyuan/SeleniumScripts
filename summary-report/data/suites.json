@@ -1,0 +1,339 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "create a new  relationshp record",
+    "children" : [ {
+      "name" : "CreateNewRelationship",
+      "uid" : "6e4ec190ecfe01dd",
+      "parentUid" : "2b3cc9ab66e49966f5672d6b31c67f82",
+      "status" : "failed",
+      "time" : {
+        "start" : 1577172142503,
+        "stop" : 1577172198704,
+        "duration" : 56201
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "National Firm", "3M Company", "1", "NewRelationship", "svc_qc@pimco.com", "1" ]
+    }, {
+      "name" : "CreateNewRelationshipAllInPut",
+      "uid" : "2c101dfdf38a2dc",
+      "parentUid" : "2b3cc9ab66e49966f5672d6b31c67f82",
+      "status" : "failed",
+      "time" : {
+        "start" : 1579075881142,
+        "stop" : 1579076006262,
+        "duration" : 125120
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Industrials", "National Firm", "\"\"\"TATE ASSET MANAGEMENT\"\" AND \"\"DCO WEALTH MANAGEMENT\"\"\", San Diego", "Jean Adams", "3M Company", "Client", "test", "1", "NewRelationship", "svc_qc@pimco.com", "www.QATest.com", "1" ]
+    }, {
+      "name" : "CreateNewRelationshipAllInPut",
+      "uid" : "6c9e072b2355084b",
+      "parentUid" : "2b3cc9ab66e49966f5672d6b31c67f82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579095894838,
+        "stop" : 1579095956456,
+        "duration" : 61618
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Industrials", "National Firm", "\"\"\"TATE ASSET MANAGEMENT\"\" AND \"\"DCO WEALTH MANAGEMENT\"\"\", San Diego", "Jean Adams", "3M Company", "Client", "test", "1", "NewRelationship", "svc_qc@pimco.com", "www.QATest.com", "1" ]
+    }, {
+      "name" : "CreateNewRelationshipAllInPut",
+      "uid" : "d101cf51eb691d3c",
+      "parentUid" : "2b3cc9ab66e49966f5672d6b31c67f82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579222440905,
+        "stop" : 1579222538235,
+        "duration" : 97330
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "test", "Industrials", "Albania", "National Firm", "\"\"\"TATE ASSET MANAGEMENT\"\" AND \"\"DCO WEALTH MANAGEMENT\"\"\", San Diego", "Jean Adams", "3M Company", "Client", "test", "Berat", "1", "2", "3", "NewRelationship", "svc_qc@pimco.com", "www.QATest.com", "1" ]
+    }, {
+      "name" : "CreateNewRelationshipAllInPut",
+      "uid" : "1b99ed016cf7ef3f",
+      "parentUid" : "2b3cc9ab66e49966f5672d6b31c67f82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579241191217,
+        "stop" : 1579241330637,
+        "duration" : 139420
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "test", "Asset Management & Custody Banks", "Albania", "National Firm", "\"\"\"TATE ASSET MANAGEMENT\"\" AND \"\"DCO WEALTH MANAGEMENT\"\"\", San Diego", "- ADD U KELOWNA", "3M Company", "Client", "test", "Berat", "1", "2", "3", "NewRelationship", "svc_qc@pimco.com", "https://www.QATest.com", "1" ]
+    } ],
+    "uid" : "2b3cc9ab66e49966f5672d6b31c67f82"
+  }, {
+    "name" : "create a new phonecall record with all input fields",
+    "children" : [ {
+      "name" : "CreateNewPhonecallAllInput",
+      "uid" : "6dc34f9a5829e51d",
+      "parentUid" : "260f18d1f0ded71b268f1a88466f3a52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581569699131,
+        "stop" : 1581569796522,
+        "duration" : 97391
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Operational Support", "3M Public Equity Alias", "3M Company", "NewPhonecall", "svc_qc@pimco.com", "Voicemail" ]
+    }, {
+      "name" : "CreateNewPhonecallAllInput",
+      "uid" : "b1920ff72fc9281f",
+      "parentUid" : "260f18d1f0ded71b268f1a88466f3a52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581672425936,
+        "stop" : 1581672558004,
+        "duration" : 132068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Operational Support", "Andrew Noll", "3M Company", "Catch Up", "Anna Yu", "test", "3M Public Equity Alias", "Alts CLO Opps Fund", "3M Company", "Positive", "NewPhonecall", "svc_qc@pimco.com", "Voicemail" ]
+    }, {
+      "name" : "CreateNewPhonecallAllInput",
+      "uid" : "a0f61cb0e3bb5f84",
+      "parentUid" : "260f18d1f0ded71b268f1a88466f3a52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582004670109,
+        "stop" : 1582004803404,
+        "duration" : 133295
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Operational Support", "Andrew Noll", "3M Company", "Catch Up", "Anna Yu", "test", "3M Public Equity Alias", "Alts CLO Opps Fund", "3M Company", "Positive", "NewPhonecall", "svc_qc@pimco.com", "Voicemail" ]
+    }, {
+      "name" : "CreateNewPhonecallAllInput",
+      "uid" : "d9617c50cb1470a8",
+      "parentUid" : "260f18d1f0ded71b268f1a88466f3a52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582533772764,
+        "stop" : 1582533899903,
+        "duration" : 127139
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Operational Support", "Andrew Noll", "3M Company", "Catch Up", "Anna Yu", "test", "3M Public Equity Alias", "Alts CLO Opps Fund", "3M Company", "Positive", "NewPhonecall", "svc_qc@pimco.com", "Voicemail" ]
+    } ],
+    "uid" : "260f18d1f0ded71b268f1a88466f3a52"
+  }, {
+    "name" : "Validating Contact Overview page scenarios",
+    "children" : [ {
+      "name" : "",
+      "uid" : "f0ae493a5afa006d",
+      "parentUid" : "62448dcfa0c6602e12f033b37d95a76e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582532012531,
+        "stop" : 1582532125236,
+        "duration" : 112705
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "3M Company", "svc_qc@pimco.com", "Internal Sales", "Landing Pages", "Summary,Activities/RTC,Relationships,Assets & Flows,Lit Orders/Subscriptions,Trading ID,Expenses,Details / Preferences,First Name,Last Name,Suffix,Nickname,Gender,Designation,Relationship,Website,Is Buying Unit,Parent Buying Unit,Remarks" ]
+    } ],
+    "uid" : "62448dcfa0c6602e12f033b37d95a76e"
+  }, {
+    "name" : "Validating to create new contact and fill in required fields from relationship record page scenario",
+    "children" : [ {
+      "name" : "CRM_Client_Contacts_CreateContacts",
+      "uid" : "81f139804c6531db",
+      "parentUid" : "935922d563644ec0d4e8c3fe81a390ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582532940561,
+        "stop" : 1582533066149,
+        "duration" : 125588
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "3M Company", "svc_qc@pimco.com", "Test contact" ]
+    } ],
+    "uid" : "935922d563644ec0d4e8c3fe81a390ee"
+  }, {
+    "name" : "Validating to create new contact and fill in all fields from relationship record page scenario",
+    "children" : [ {
+      "name" : "CRM_Client_Contacts_CreateContactsInputAllFields",
+      "uid" : "415b517ab25b8db9",
+      "parentUid" : "de0407a204df029d08c5915860dc8db6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582533085802,
+        "stop" : 1582533230683,
+        "duration" : 144881
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "3M Company", "svc_qc@pimco.com", "Eric.Liu@pimco.com", "Eric", "90019492097888", "IT Service", "Genpact", "Australia", "SVP", "Sourabh.Goel@pimco.com", "Tony.Han@pimco.com", "8798", "92660", "Test contact", "Male", "English", "90019492097898", "Tom", "Test remarks", "Queensland", "Manager", "Fax", "https://pimco-beta.crm.dynamics.com", "11" ]
+    } ],
+    "uid" : "de0407a204df029d08c5915860dc8db6"
+  }, {
+    "name" : "Validating to create new meeting in contact page",
+    "children" : [ {
+      "name" : "CRM_Client_Activities_CreateMeetingUnderContact",
+      "uid" : "81238f6317c34362",
+      "parentUid" : "87143c59db466be78554d8877dfd62a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582533250567,
+        "stop" : 1582533394907,
+        "duration" : 144340
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Operational Support", "Barb Larson", "svc_qc@pimco.com", "PIMCO", "New Meeting", "Test meeting record" ]
+    } ],
+    "uid" : "87143c59db466be78554d8877dfd62a6"
+  }, {
+    "name" : "validate all labels on relationshp page",
+    "children" : [ {
+      "name" : "VerifyLablesOnRelationshipPage",
+      "uid" : "66faaca983150d4f",
+      "parentUid" : "b69dcf5c844d281e467c2f329f7d24ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582534000702,
+        "stop" : 1582534045195,
+        "duration" : 44493
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Summary,Activities,Contact/Relationship,Assets & Flows,Address & Phone,Relationship Hierarchy,Trading ID,Admin,Relationship,Official Name,Relationship Type,Parent Relationship,Client Industry,Web Site,Is Buying Unit,Primary Contact,Relationship Assistant, EXPORT TO EXCEL,PIMCO Coverage,Segmentation", "3M Company", "svc_qc@pimco.com" ]
+    } ],
+    "uid" : "b69dcf5c844d281e467c2f329f7d24ef"
+  }, {
+    "name" : "create a new  relationshp record with all input fields",
+    "children" : [ {
+      "name" : "CreateNewRelationshipAllInPut",
+      "uid" : "b9a205690ec23786",
+      "parentUid" : "5549c15b36101effa5b19038dd764d7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582537241691,
+        "stop" : 1582537415937,
+        "duration" : 174246
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "test", "Asset Management & Custody Banks", "Albania", "National Firm", "\"Morningstar, Inc.\"", "- ADD U KELOWNA", "3M Company", "Client", "test", "Berat", "1", "2", "3", "NewRelationship", "svc_qc@pimco.com", "https://www.QATest.com", "1" ]
+    } ],
+    "uid" : "5549c15b36101effa5b19038dd764d7d"
+  }, {
+    "name" : "Validating task overview scenarios",
+    "children" : [ {
+      "name" : "CRM_Client_Activities_NewTaskInputAllFields",
+      "uid" : "dc10b32c0b426a9",
+      "parentUid" : "d02039b3186dad472a270ce9003ed65a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582693274523,
+        "stop" : 1582693408911,
+        "duration" : 134388
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Barb Larson", "Testing task details", "svc_qc@pimco.com", "Slightly Positive", "Test task record" ]
+    } ],
+    "uid" : "d02039b3186dad472a270ce9003ed65a"
+  }, {
+    "name" : "create a new  relationshp record with mandatory input fields",
+    "children" : [ {
+      "name" : "CreateNewRelationship",
+      "uid" : "1b25389c989a6623",
+      "parentUid" : "2ee28c651c7fb1740ebc35678efac49b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1583138416132,
+        "stop" : 1583138434613,
+        "duration" : 18481
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "National Firm", "3M Company", "1", "NewRelationship", "svc_qc@pimco.com", "1" ]
+    } ],
+    "uid" : "2ee28c651c7fb1740ebc35678efac49b"
+  }, {
+    "name" : "create a new phonecall record with mandatory fields",
+    "children" : [ {
+      "name" : "CreateNewPhonecall",
+      "uid" : "b0fa8506e4cab194",
+      "parentUid" : "6ade88e6a0c2394801e499920a2e707b",
+      "status" : "failed",
+      "time" : {
+        "start" : 1583210477954,
+        "stop" : 1583210599438,
+        "duration" : 121484
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Positive", "10/24/2020", "3M Public Equity Alias", "3M Company", "NewTask", "test", "svc_qc@pimco.com" ]
+    }, {
+      "name" : "CreateNewPhonecall",
+      "uid" : "d442d47626f963f6",
+      "parentUid" : "6ade88e6a0c2394801e499920a2e707b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1583741106055,
+        "stop" : 1583741247058,
+        "duration" : 141003
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Positive", "10/24/2020", "12:00 AM", "3M Public Equity Alias", "3M Company", "NewTask", "test", "svc_qc@pimco.com" ]
+    }, {
+      "name" : "CreateNewPhonecall",
+      "uid" : "211c0b26a1c174d3",
+      "parentUid" : "6ade88e6a0c2394801e499920a2e707b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583810621913,
+        "stop" : 1583810712508,
+        "duration" : 90595
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Positive", "10/24/2020", "12:00 AM", "3M Public Equity Alias", "3M Company", "NewTask", "test", "svc_qc@pimco.com" ]
+    }, {
+      "name" : "CreateNewPhonecall",
+      "uid" : "d23ba8c6b8ad738f",
+      "parentUid" : "6ade88e6a0c2394801e499920a2e707b",
+      "status" : "failed",
+      "time" : {
+        "start" : 1586414662289,
+        "stop" : 1586414765726,
+        "duration" : 103437
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Operational Support", "3M Public Equity Alias", "3M Company", "NewPhonecall", "svc_qc@pimco.com", "Voicemail" ]
+    } ],
+    "uid" : "6ade88e6a0c2394801e499920a2e707b"
+  }, {
+    "name" : "Generates the consolidated Report",
+    "children" : [ {
+      "name" : "Create consolidated report",
+      "uid" : "6a729350ff1f8f1b",
+      "parentUid" : "5e572b4a63a37c9395ca4a7a3a83bb6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586414851843,
+        "stop" : 1586414855354,
+        "duration" : 3511
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5e572b4a63a37c9395ca4a7a3a83bb6b"
+  } ]
+}
